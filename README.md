@@ -47,6 +47,12 @@ Utilizamos diversas ferramentas e tecnologias para fornecer insights acionáveis
 -   Matplotlib e Seaborn para visualização de dados.
 -   Jupyter Notebooks para análise e visualização interativas.
 
+## Streamlit App
+
+Foi proposto um App Streamlit de forma a analisar as métricas de forma mais interativa. O aplicativo pode ser acessado [aqui](https://currycompanyhome.streamlit.app/).
+
+<img src="https://github.com/michelwop/curry_company/blob/main/img/readme.png" alt="Exemplo" width="1200" height="450">
+
 ## Conclusão
 
 O Painel de Análise de Dados da Cury Company é uma ferramenta valiosa para acompanhar métricas de crescimento e tomar decisões informadas. À medida que continuamos a refinar e expandir nossas capacidades de análise, permanecemos comprometidos em fornecer insights acionáveis que impulsionem o sucesso empresarial.
